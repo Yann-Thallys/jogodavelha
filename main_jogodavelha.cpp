@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+// Yann Thallys e Alisson Batis
+
+
+
 // Função para imprimir o estado atual do tabuleiro
 void imprimirTabuleiro(char tabuleiro[3][3]) {
     printf("\n");
